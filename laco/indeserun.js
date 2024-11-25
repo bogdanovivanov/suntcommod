@@ -1,0 +1,1 @@
+outputLotto = lottoList.get(i);
